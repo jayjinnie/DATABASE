@@ -1,7 +1,0 @@
-CREATE TABLE phonebook (
-	id NUMBER PRIMARY KEY,
-	name VARCHAR2(10) NOT NULL,
-	phone VARCHAR2(14) DEFAULT '010-0000-0000',
-	regDate DATE
-)
-/
